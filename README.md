@@ -3,8 +3,6 @@
 <!--
 **akhilgandhi/akhilgandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Akhil, currently a working professional in a Multi-National IT company and a very energetic and enthusiastic software developer. I am having a 4+ years experience in JAVA based projects.
+
+- 🌱 I’m currently learning Amazon Web Services Certifications
+- 🔭 I’m currently working in Banking and Financial project with a experience of 3 years
