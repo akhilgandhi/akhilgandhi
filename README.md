@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I am Akhil, currently a working professional in a Multi-National IT company and a very energetic and enthusiastic software developer. I am having a 5+ years experience in JAVA based projects.
+I am Akhil, currently a working professional in a Multi-National IT company and a very energetic and enthusiastic software developer. I am having a 6+ years experience in JAVA based projects.
 
-- 🌱 I’m currently learning Amazon Web Services Certifications and completed my first AWS certification - AWS Certified CloudPractitioner
 - 🔭 I’m currently working in Banking and Financial project with a experience of 5 years
+- 🌱 I'm currently learning developing microservices using kubernetes and docker
