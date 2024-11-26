@@ -13,7 +13,9 @@
 - ⚡ Fun fact: ...
 -->
 
-I am Akhil, currently a working professional in a Multi-National IT company and a very energetic and enthusiastic software developer. I am having a 6+ years experience in JAVA based projects.
+I am Akhil, currently a working professional in a Multi-National IT company and a very energetic and enthusiastic software developer. I am having a 8+ years experience in JAVA and Spring boot based projects.
 
-- 🔭 I’m currently working in Banking and Financial project with a experience of 5 years
-- 🌱 I'm currently learning developing microservices using kubernetes and docker
+- 🔭 I’m currently working in Banking and Financial projects
+- 🌱 I'm currently enhancing my knowledge in developing applications based on microservices architecture
+- 🧑🏻‍💻 I'm currently using and learning technologies like kubernetes, docker
+- ☁️ I'm currently using AWS cloud
